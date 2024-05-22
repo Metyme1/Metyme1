@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Mety.
 
-👀 I'm interested in mobile app development and competitive programming.
+👀 I'm interested in mobile app development and MERN.
 
 🌱 I'm currently learning MERN and Flutter for mobile app development.
 
